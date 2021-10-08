@@ -13,8 +13,7 @@
 # Maaf klo codinganya berantakan dan banyak bug:)
 
 import requests,bs4,sys,os,subprocess,getpass,hashlib
-import random,time,re,json
-import emailerendem,calendar,nande,orbxd
+import random,time,re,json 
 from datetime import datetime
 from datetime import date 
 from concurrent.futures import ThreadPoolExecutor
