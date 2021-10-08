@@ -1,5 +1,5 @@
 import os, sys, time, datetime, re, random, hashlib, threading, json, getpass, urllib, cookielib, requests, uuid
-    from multiprocessing.pool import ThreadPool
+    from multiprocessing.pool
     from datetime import datetime
 except ImportError:
     os.system('pip2 install requests')
